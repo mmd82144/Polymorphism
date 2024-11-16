@@ -1,0 +1,9 @@
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin6\tamrin6\bin\Debug\tamrin6.exe.config
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin6\tamrin6\bin\Debug\tamrin6.exe
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin6\tamrin6\bin\Debug\tamrin6.pdb
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin6\tamrin6\obj\Debug\tamrin6.csprojResolveAssemblyReference.cache
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin6\tamrin6\obj\Debug\tamrin6.Form1.resources
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin6\tamrin6\obj\Debug\tamrin6.Properties.Resources.resources
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin6\tamrin6\obj\Debug\tamrin6.csproj.GenerateResource.Cache
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin6\tamrin6\obj\Debug\tamrin6.exe
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin6\tamrin6\obj\Debug\tamrin6.pdb
